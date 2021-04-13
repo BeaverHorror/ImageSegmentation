@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>png/but1.png</file>
+        <file>png/but2.png</file>
+        <file>png/but3.png</file>
+        <file>png/but4.png</file>
+        <file>png/but5.png</file>
+        <file>png/but6.png</file>
+        <file>png/down.png</file>
+        <file>png/down2.png</file>
+        <file>png/down3.png</file>
+        <file>png/down11.png</file>
+        <file>png/down12.png</file>
+        <file>png/down13.png</file>
+        <file>png/up.png</file>
+        <file>png/up2.png</file>
+        <file>png/up3.png</file>
+        <file>png/up11.png</file>
+        <file>png/up12.png</file>
+        <file>png/up13.png</file>
+    </qresource>
+</RCC>
